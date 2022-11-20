@@ -1,1 +1,1 @@
-# Capstone-Pangu-Compiler
+# Pangu-Compiler
